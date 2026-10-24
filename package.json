@@ -1,0 +1,8 @@
+{
+  "name": "ruco-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ruco AI by RudraCodes, a chat app powered by Groq",
+  "engines": { "node": ">=18" }
+}
